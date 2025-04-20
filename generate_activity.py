@@ -3,7 +3,7 @@ import subprocess
 import datetime
 import random
 
-def generate_fake_commits(repo_path, weeks=8):
+def generate_fake_commits(repo_path, weeks=3):
     """
     Генерирует фиктивные коммиты для указанного репозитория.
 
